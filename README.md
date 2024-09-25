@@ -1,3 +1,5 @@
+### Name :Sriram s
+### Reg no:212222240105
 # Ex.No: 02 LINEAR AND POLYNOMIAL TREND ESTIMATION
 Date:
 ### AIM:
